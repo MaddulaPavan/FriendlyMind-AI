@@ -31,8 +31,6 @@ FriendlyMind is an innovative platform designed to address the growing need for 
 
 - **Backend:** Python
 - **Frontend:** Gradio
-- **AI Model:** Llama 3.1 Open Source Model
-- **NLP:** Custom implementation for keyword-based responses
-- **Development Environment:** Visual Studio Code
-- **Documentation:** Markdown
+- **Model:** Vicuna-13b
+
 
